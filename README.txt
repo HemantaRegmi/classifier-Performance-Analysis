@@ -10,4 +10,5 @@ I also have the second portion of code commented out. This is where the experime
 2. Comment out MNIST code and uncomment experiement code (I made a comment for the cutoff point for both portions of code)
 3. Adjust file route if necessary
 
+I HAVE THE CSV DATA FILES USED TO TEST MY CODE BUT DID NOT PUT THEM IN THIS REPOSITORY
 
